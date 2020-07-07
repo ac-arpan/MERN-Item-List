@@ -1,4 +1,4 @@
 {
-    "mongoURI":"mongodb+srv://acarpan:acarpan@cluster0-8adpk.mongodb.net/shopping-list?retryWrites=true&w=majority",
+    "mongoURI":"<YOUR_MONGO_URI>",
     "jwtSecret":"sl_myJwtSecret"
 }
